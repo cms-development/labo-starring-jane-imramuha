@@ -5,7 +5,7 @@ derde jaarsstudenten.
 
 ## Introductie
 
-Tijdens de introductie krijgen wij te horen hoe Starring Jane tewerk gaat. Welke waarden dat ze hebben en hoe ze in verschillende teams werken zoals PHP en .NET maar dat er nog steeds sprake is van een goede teamwork. De reden waarom ze voor Vue.js hebben gekozen was omdat de leercurve lager ligt dan bij React en gezien ze er 5 juniors hadden op dat ogenblik leek het wel de beste keuze.
+Tijdens de introductie krijgen we te horen hoe Starring Jane tewerk gaat. Welke waarden dat ze hebben en hoe ze in verschillende teams werken zoals PHP en .NET maar dat er nog steeds sprake is van een goede teamwork. De reden waarom ze voor Vue.js hebben gekozen was omdat de leercurve lager ligt dan bij React en gezien ze er 5 juniors hadden op dat ogenblik leek het wel de beste keuze.
 
 Zo hebben ze de voorbije jaren projecten gemaakt voor verschillende klanten in Vue.js. Zoals een platform waarbij studenten hun projecten kunnen online plaatsen, een interactieve website voor een waterbedrijf en als laatste de rouwapp waarop mensen die iemand verloren hebben kunnen rouwen op een unieke manier
 
