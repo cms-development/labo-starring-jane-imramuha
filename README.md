@@ -17,8 +17,9 @@ Starring Jane kreeg een opdracht van Dela, een bedrijf die gespecialiseerd is in
 - makkelijk te gebruiken,
 - persoonlijk, 
 - psychologische effecten, 
-- veilig 
+- veiligheid,
 - geloofwaardig
+
 de idee van de levende boom, juist omgekeerde van de dood en al het harde werk, de opdracht binnen.
 
 Na de pitch begonnen ze er al mee. Zo kreeg een andere agency Studio Monk de opdracht om de illustraties en graphics te maken voor deze applicatie. Daarnaast waren er ook de technische uitdagingen zoals: 
