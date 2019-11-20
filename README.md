@@ -39,9 +39,9 @@ De backend voor deze rouwapp werd in Laravel gemaakt, veel kregen wij niet te zi
 Als laatste werden de sterretjes samen met de balloon getoond en hoe de sterretjes niet helemaal randomized zijn maar wel de canvas elke keer vergroot als de limiet van het aantal sterretjes wordt bereikt. Hoe de balloon maar een image is waarvaan de behaviors aangepast kunnen worden door knoppen te drukken en door de locatie, zooming, snelheid en userinput, ... bij te houden en te beheren.
 
 ### Feedback
-```
+
 In begin vond ik het heel interessant en leuk om ernaar te luisteren. Maar de tweede gedeelte waarin ze de code aan het voorstellen waren was het alles door elkaar. Ik vond het te chaotisch waardoor ik geen zin meer had om mee te volgen. Toevallig zat ik ook tussen studenten van 2de jaar en ik hoor ze heel de tijd elkaar vertellen dat ze er niets van begrepen. Het zou wel leuker geweest zijn als wij samen de code op onze schermen konden volgen of zelf iets kleins hadden gemaakt, want al de code die ik gisteren heb gezien is al uit mijn hoofd, maar gezien ik met andere JS frameworks kan werken blijven de concepten in grote lijnen wel in mijn hoofd handen. Ik had liever een Vue.js tutorial in plaats van de tweede gedeelte van de gastcollege gevolgd.
 
 Er waren wel zaken die ik heel interessant vond en waarop ik verder zal ingaan, zeker het idee van sprintplanning, de app offline te kunnen runnen, indexdb, hoe ze voor alle devices hebben gemaakt en randomizen van positie samen met het vergroten van canvas.
-```
+
 
